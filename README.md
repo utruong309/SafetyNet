@@ -1,1 +1,1 @@
-# SafetyNet - Real-time flood forecasting and rescue platform
+# FloodWatch - Real-time flood forecasting and rescue platform
